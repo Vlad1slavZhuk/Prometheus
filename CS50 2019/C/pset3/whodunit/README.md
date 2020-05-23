@@ -9,4 +9,13 @@
 
 # My answer
 
+```c
+if (triple.rgbtRed >= 250 && triple.rgbtGreen >= 0 && triple.rgbtBlue >= 0)
+{
+    triple.rgbtRed = 0xff;
+    triple.rgbtGreen = 0xff;
+    triple.rgbtBlue = 0xff;
+}
+```
+
 ![verdict](verdict.bmp)
