@@ -9,6 +9,8 @@
 
 # My answer
 
+In `whodunit.c` line `77`-`82`
+
 ```c
 if (triple.rgbtRed >= 250 && triple.rgbtGreen >= 0 && triple.rgbtBlue >= 0)
 {
