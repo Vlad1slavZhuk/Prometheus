@@ -2,6 +2,8 @@
 
 # Як працює API IEX
 
+<p>https://cloud.iexapis.com/stable/stock/<font style="color: red">FB</font>/quote?token=<font style="color: blue">pk_2a0bb90fae2c4d6b947584c1d42d8e1f</font></p>
+
 [IEXAPIS with symbol FB](https://cloud.iexapis.com/stable/stock/FB/quote?token=pk_2a0bb90fae2c4d6b947584c1d42d8e1f)
 
 ---
