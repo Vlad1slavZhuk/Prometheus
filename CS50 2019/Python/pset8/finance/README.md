@@ -1,9 +1,13 @@
 # Finance 2019 (minor changes)
 
-# Як працює API IEX
+# Як працює API IEX 
+```
+https://cloud.iexapis.com/stable/stock/{urllib.parse.quote_plus(symbol)}/quote?token=pk_2a0bb90fae2c4d6b947584c1d42d8e1f
 
-<p>https://cloud.iexapis.com/stable/stock/<font style="color: red">FB</font>/quote?token=<font style="color: blue">pk_2a0bb90fae2c4d6b947584c1d42d8e1f</font></p>
+{urllib.parse.quote_plus(symbol)} = FB (Facebook)
 
+https://cloud.iexapis.com/stable/stock/FB/quote?token=pk_2a0bb90fae2c4d6b947584c1d42d8e1f
+```
 [IEXAPIS with symbol FB](https://cloud.iexapis.com/stable/stock/FB/quote?token=pk_2a0bb90fae2c4d6b947584c1d42d8e1f)
 
 ---
